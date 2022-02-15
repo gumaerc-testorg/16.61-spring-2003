@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Lecture #10: Friction in Lagrange''s Formulation'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-61-aerospace-dynamics-spring-2003/0409d0eedb913c60aa6896e25227677c_lecture10.pdf
+file: /media/courses/16-61-aerospace-dynamics-spring-2003/0409d0eedb913c60aa6896e25227677c_lecture10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture10.pdf
 uid: 0409d0ee-db91-3c60-aa68-96e25227677c

@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information related to spacecraft motion, attitude
   dynamics analysis, attitude control, and typical requirements.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-61-aerospace-dynamics-spring-2003/a8723d0fa859caf1c5b88a3619f2aca2_Lecture_15.pdf
+file: /media/courses/16-61-aerospace-dynamics-spring-2003/a8723d0fa859caf1c5b88a3619f2aca2_Lecture_15.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture_15.pdf
 uid: a8723d0f-a859-caf1-c5b8-8a3619f2aca2
