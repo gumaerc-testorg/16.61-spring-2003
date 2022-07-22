@@ -5,6 +5,7 @@ file: /courses/16-61-aerospace-dynamics-spring-2003/d466f5f353d498b566b031b302dd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture4.pdf
 uid: d466f5f3-53d4-98b5-66b0-31b302dde674
 ---
 Lecture #4: Extension to multiple intermediate frames (two)
-

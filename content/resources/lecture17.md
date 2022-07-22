@@ -5,6 +5,7 @@ file: /courses/16-61-aerospace-dynamics-spring-2003/6437b0a10b1c80fd20fbc67cac2c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture17.pdf
 uid: 6437b0a1-0b1c-80fd-20fb-c67cac2ccac7
 ---
 Aircraft Longitudinal Dynamics
-

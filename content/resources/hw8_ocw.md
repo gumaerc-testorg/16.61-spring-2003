@@ -5,6 +5,7 @@ file: /courses/16-61-aerospace-dynamics-spring-2003/38dfba75637ff1ec59028f19f668
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw8_ocw.pdf
 uid: 38dfba75-637f-f1ec-5902-8f19f6683ce6
 ---
 Homework Assignment #8
-

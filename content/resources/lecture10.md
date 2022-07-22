@@ -5,6 +5,7 @@ file: /courses/16-61-aerospace-dynamics-spring-2003/0409d0eedb913c60aa6896e25227
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture10.pdf
 uid: 0409d0ee-db91-3c60-aa68-96e25227677c
 ---
 Lecture #10: Friction in Lagrange's Formulation
-
