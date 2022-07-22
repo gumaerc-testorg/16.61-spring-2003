@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 82d51718-1c20-b2b5-da0a-ce99db0b50e1
 ---
@@ -38,7 +41,7 @@ Administrative
     *   Final exam at the end of the semester (30%)
     *   Homework - Out Thursdays, due following Thursday at beginning of class (35%). Hand-in during class or drop-off at my office.
     *   Collaboration: You can discuss problems with others, but you are expected to write up and hand in your own work.
-    *   You will definitely need access to MATLAB®
+    *   You will definitely need access to MATLAB{{< sup "®" >}}
 
 Textbooks
 ---------
