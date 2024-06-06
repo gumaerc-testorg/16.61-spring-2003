@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture #2: Coriolis "Demystified"'
 file: /courses/16-61-aerospace-dynamics-spring-2003/977ca433819ad54e3da08c6a9914b64a_lecture2.pdf
+file_size: 2481206
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
