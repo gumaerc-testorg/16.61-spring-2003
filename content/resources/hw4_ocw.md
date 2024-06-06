@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Homework Assignment #4'
 file: /courses/16-61-aerospace-dynamics-spring-2003/1493025485fb2fab9e132c37866c27af_hw4_OCW.pdf
+file_size: 303735
 file_type: application/pdf
 learning_resource_types:
 - Assignments
