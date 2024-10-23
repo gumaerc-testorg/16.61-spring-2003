@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Aircraft Longitudinal Dynamics
-file: /courses/16-61-aerospace-dynamics-spring-2003/6437b0a10b1c80fd20fbc67cac2ccac7_Lecture17.pdf
+file: /ol-ocw-studio-app/courses/16-61-aerospace-dynamics-spring-2003/6437b0a10b1c80fd20fbc67cac2ccac7_Lecture17.pdf
 file_size: 464147
 file_type: application/pdf
 learning_resource_types:
