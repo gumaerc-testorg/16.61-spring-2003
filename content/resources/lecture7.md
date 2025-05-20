@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture #7: Lagrange''s Equations'
-file: /ol-ocw-studio-app/courses/16-61-aerospace-dynamics-spring-2003/e9b08bd24cdf28d2e209106253287621_lecture7.pdf
+file: /courses/16-61-aerospace-dynamics-spring-2003/e9b08bd24cdf28d2e209106253287621_lecture7.pdf
 file_size: 244018
 file_type: application/pdf
 learning_resource_types:

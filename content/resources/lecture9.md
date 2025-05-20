@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture #9: Virtual Work And the Derivation of Lagrange''s Equations'
-file: /ol-ocw-studio-app/courses/16-61-aerospace-dynamics-spring-2003/e16936ad266f184f38159855f69fc227_lecture9.pdf
+file: /courses/16-61-aerospace-dynamics-spring-2003/e16936ad266f184f38159855f69fc227_lecture9.pdf
 file_size: 737546
 file_type: application/pdf
 learning_resource_types:
