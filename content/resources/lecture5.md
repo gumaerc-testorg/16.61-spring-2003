@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture #5: Momentum, Angular Momentum. Dynamics of a System of Particles'
-file: /ol-ocw-studio-app/courses/16-61-aerospace-dynamics-spring-2003/384be6e06c09f4d3a6c1a7f6b5b12814_lecture5.pdf
+file: /courses/16-61-aerospace-dynamics-spring-2003/384be6e06c09f4d3a6c1a7f6b5b12814_lecture5.pdf
 file_size: 984555
 file_type: application/pdf
 learning_resource_types:

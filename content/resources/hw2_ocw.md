@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Homework Assignment #2'
-file: /ol-ocw-studio-app/courses/16-61-aerospace-dynamics-spring-2003/7dc4a9df424300bcb1ec0b0a152a1462_hw2_OCW.pdf
+file: /courses/16-61-aerospace-dynamics-spring-2003/7dc4a9df424300bcb1ec0b0a152a1462_hw2_OCW.pdf
 file_size: 39081
 file_type: application/pdf
 learning_resource_types:
