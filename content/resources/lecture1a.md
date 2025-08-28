@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Aerospace Dynamics
-file: /courses/16-61-aerospace-dynamics-spring-2003/db1147374a633a4b0b37ece01479e6b6_lecture1a.pdf
+file: /ol-ocw-studio-app/courses/16-61-aerospace-dynamics-spring-2003/db1147374a633a4b0b37ece01479e6b6_lecture1a.pdf
 file_size: 1167274
 file_type: application/pdf
 learning_resource_types:
